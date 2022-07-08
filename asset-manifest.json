@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nft-ring-tool/static/css/main.19a60fcc.css",
-    "main.js": "/nft-ring-tool/static/js/main.feba8282.js",
+    "main.js": "/nft-ring-tool/static/js/main.dfab91c8.js",
     "index.html": "/nft-ring-tool/index.html",
     "main.19a60fcc.css.map": "/nft-ring-tool/static/css/main.19a60fcc.css.map",
-    "main.feba8282.js.map": "/nft-ring-tool/static/js/main.feba8282.js.map"
+    "main.dfab91c8.js.map": "/nft-ring-tool/static/js/main.dfab91c8.js.map"
   },
   "entrypoints": [
     "static/css/main.19a60fcc.css",
-    "static/js/main.feba8282.js"
+    "static/js/main.dfab91c8.js"
   ]
 }
